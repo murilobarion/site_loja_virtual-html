@@ -1,0 +1,31 @@
+body { 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background:rgb(208, 206, 206);
+}
+
+h1 {
+    padding-top: 30px;
+    color: purple;
+    text-align: center;
+}
+
+img {
+    border: solid purple;
+    border-radius: 30px;
+    margin: 0 auto;
+}
+
+div {
+    background: white;
+    margin: 25px;
+    padding: 25px;
+    border: 5px solid #800080;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+
+p {
+    color: gray;
+    text-align: center;
+}
